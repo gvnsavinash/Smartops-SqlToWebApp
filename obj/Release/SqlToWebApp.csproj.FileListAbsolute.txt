@@ -1,0 +1,545 @@
+C:\Users\202828\source\repos\SqlToWebApp\bin\SqlToWebApp.dll.config
+C:\Users\202828\source\repos\SqlToWebApp\bin\SqlToWebApp.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\SqlToWebApp.pdb
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csc.exe
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csc.exe.config
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csc.rsp
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csi.exe
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csi.exe.config
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\csi.rsp
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Console.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\vbc.exe
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\vbc.exe.config
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\vbc.rsp
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\202828\source\repos\SqlToWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\202828\source\repos\SqlToWebApp\bin\Antlr3.Runtime.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Azure.Core.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Azure.Identity.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Data.SqlClient.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Logging.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Identity.Client.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Newtonsoft.Json.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Sfa.Core.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Sfa.Core.Web.Http.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Buffers.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Memory.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Numerics.Vectors.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.AccessControl.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Cryptography.Xml.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Permissions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Principal.Windows.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Text.Encodings.Web.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Text.Json.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.ValueTuple.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Cors.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Helpers.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Mvc.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Optimization.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Razor.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\WebGrease.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\Azure.Core.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Azure.Identity.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Azure.WebJobs.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Data.SqlClient.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Logging.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Identity.Client.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Buffers.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Memory.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Numerics.Vectors.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.AccessControl.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Cryptography.Xml.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Permissions.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Security.Principal.Windows.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Text.Encodings.Web.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Text.Json.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.ValueTuple.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Newtonsoft.Json.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Helpers.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Mvc.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Optimization.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.Razor.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\202828\source\repos\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\202828\source\repos\SqlToWebApp\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\202828\source\repos\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CoreCompileInputs.cache
+C:\Users\202828\source\repos\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CopyComplete
+C:\Users\202828\source\repos\SqlToWebApp\obj\Release\SqlToWebApp.dll
+C:\Users\202828\source\repos\SqlToWebApp\obj\Release\SqlToWebApp.pdb
+C:\Users\202828\source\repos\SqlToWebApp\obj\Release\SqlToWebApp.csprojAssemblyReference.cache
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\SqlToWebApp.dll.config
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\SqlToWebApp.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\SqlToWebApp.pdb
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csc.exe
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csc.exe.config
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csc.rsp
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csi.exe
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csi.exe.config
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\csi.rsp
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Console.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\vbc.exe
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\vbc.exe.config
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\vbc.rsp
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Antlr3.Runtime.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Azure.Core.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Azure.Identity.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Data.SqlClient.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Logging.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Identity.Client.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Newtonsoft.Json.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Sfa.Core.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Sfa.Core.Web.Http.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Buffers.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Memory.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Numerics.Vectors.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.AccessControl.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Cryptography.Xml.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Permissions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Principal.Windows.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Text.Encodings.Web.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Text.Json.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.ValueTuple.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Cors.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Helpers.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Mvc.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Optimization.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Razor.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\WebGrease.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Azure.Core.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Azure.Identity.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Azure.WebJobs.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Data.SqlClient.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Logging.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Identity.Client.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Buffers.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Memory.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Numerics.Vectors.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.AccessControl.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Cryptography.Xml.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Permissions.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Security.Principal.Windows.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Text.Encodings.Web.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Text.Json.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.ValueTuple.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Newtonsoft.Json.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Helpers.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Mvc.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Optimization.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.Razor.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\obj\Release\SqlToWebApp.csproj.AssemblyReference.cache
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CoreCompileInputs.cache
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CopyComplete
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\obj\Release\SqlToWebApp.dll
+C:\Users\237698\Desktop\Connected Factory Box\Manufacturing\Pregis Repli\SqlToWebApp\obj\Release\SqlToWebApp.pdb
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\SqlToWebApp.dll.config
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\SqlToWebApp.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\SqlToWebApp.pdb
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csc.exe
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csc.exe.config
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csc.rsp
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csi.exe
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csi.exe.config
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\csi.rsp
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Console.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\vbc.exe
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\vbc.exe.config
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\vbc.rsp
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Antlr3.Runtime.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Core.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Identity.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Data.SqlClient.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Logging.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Identity.Client.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Newtonsoft.Json.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Sfa.Core.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Sfa.Core.Web.Http.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Buffers.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Memory.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Numerics.Vectors.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.AccessControl.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Cryptography.Xml.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Permissions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Principal.Windows.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Text.Encodings.Web.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Text.Json.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.ValueTuple.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Cors.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Helpers.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Mvc.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Optimization.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Razor.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\WebGrease.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Core.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Identity.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Azure.WebJobs.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Data.SqlClient.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Logging.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Identity.Client.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Buffers.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Memory.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Numerics.Vectors.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.AccessControl.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Cryptography.Xml.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Permissions.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Security.Principal.Windows.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Text.Encodings.Web.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Text.Json.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.ValueTuple.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Newtonsoft.Json.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Helpers.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Mvc.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Optimization.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.Razor.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\obj\Release\SqlToWebApp.csproj.AssemblyReference.cache
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CoreCompileInputs.cache
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\obj\Release\SqlToWebApp.csproj.CopyComplete
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\obj\Release\SqlToWebApp.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\obj\Release\SqlToWebApp.pdb
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Storage.Blobs.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Storage.Common.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.IO.Hashing.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Memory.Data.dll
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Storage.Blobs.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\Azure.Storage.Common.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.IO.Hashing.xml
+C:\Users\237698.adm\Desktop\Pregis\WebApp\SqlToWebApp\bin\System.Memory.Data.xml
