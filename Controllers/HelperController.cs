@@ -46,15 +46,7 @@ namespace SqlToWebApp.Controllers
                 using (SqlConnection conn = new SqlConnection())
                 {
                     
-                    SqlConnection = new SqlConnection(@"Server=tcp:ae-smartops-covtest.database.windows.net,1433;Initial Catalog=Smart_Mfgs;Persist Security Info=False;User ID=dbadmin;Password=MqVZtYFumuPNQ8uu;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
-                }
-            }
-
-            if (SqlConnection.State != System.Data.ConnectionState.Open)
-            {
-                SqlConnection.Open();
-            }
-            return SqlConnection;
+                   
             //SqlConnection.Close();
         }
 
