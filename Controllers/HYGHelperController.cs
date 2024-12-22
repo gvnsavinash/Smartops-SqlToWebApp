@@ -41,9 +41,7 @@ namespace SqlToWebApp.Controllers
             {
                 using (SqlConnection conn = new SqlConnection())
                 {
-                    //conn.ConnectionString = "Server=covtest;Database=OEETest;Trusted_Connection=true;UserId=covadmin;Password=covtest@01";
-                    SqlConnection = new SqlConnection(@"Server=tcp:ae-smartops-covtest.database.windows.net,1433;Initial Catalog=Smart_Mfgs;Persist Security Info=False;User ID=dbadmin;Password=MqVZtYFumuPNQ8uu;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
-                    //mySqlConnection = new MySqlConnection("Database = covidapp; Data Source = hyster.mysql.database.azure.com; User Id = hyster@hyster; Password = hyg@0123");
+                 
                 }
             }
 
